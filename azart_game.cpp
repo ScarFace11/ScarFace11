@@ -14,7 +14,7 @@ int main() {
     int Bot1_money = 100, Bot2_money = 100; //монеты ботов
     int Bot1_put_money, Bot2_put_money; // кол-во поставленных монет игрокомботами
     int Bot1_card,Bot2_card, player_card; // карты игроков
-    int mode; // уровень сложности
+    int mode; // уровень сложностиsss
     bool player_bankrupt=false, Bot1_bankrupt=false, Bot2_bankrupt=false; // банкроты
 
     cout << "Ваши деньги: " << player_money << '\n'; 
