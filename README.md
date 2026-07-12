@@ -64,7 +64,7 @@ motto:
 | 🎯 **Arrow Detection System** | Computer Vision system for real-time object detection |
 | 🌾 **Stardew Valley NPC Tracker** | SMAPI mod for tracking NPC movement and paths |
 | 👾 **Pacman Game** | Arcade game built with Python and Pygame |
-| 🏭 **Desktop Automation Tools** | Automation utilities for everyday tasks |
+| 🏭 **Boiler Service Management System** | C# WPF enterprise application for managing boiler service operations |
 
 </div>
 
