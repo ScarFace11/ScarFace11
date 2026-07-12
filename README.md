@@ -61,10 +61,10 @@ motto:
 
 | Project | Description |
 |---|---|
-| 🎯 **Arrow Detection System** | Computer Vision system for real-time object detection |
-| 🌾 **Stardew Valley NPC Tracker** | SMAPI mod for tracking NPC movement and paths |
-| 👾 **Pacman Game** | Arcade game built with Python and Pygame |
-| 🏭 **Boiler Service Management System** | C# WPF enterprise application for managing boiler service operations |
+| 🎯 [**Arrow Detection System**](https://github.com/ScarFace11/ArrowBot) | Computer Vision system for real-time object detection |
+| 🌾 [**Stardew Valley NPC Tracker**](https://github.com/ScarFace11/StardewValley-NPC-Tracker) | SMAPI mod for tracking NPC movement and paths |
+| 👾 [**Pacman Game**](https://github.com/ScarFace11/Pacman-Game) | Arcade game built with Python and Pygame |
+| 🏭 [**Boiler Service Management System**](https://github.com/ScarFace11/Boiler-Service-Management) | C# WPF enterprise application for managing boiler service operations |
 
 </div>
 
@@ -107,7 +107,7 @@ Database
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ScarFace11&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ScarFace11&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=FFFFFF&hide_border=true)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ScarFace11&langs_count=6&theme=dark)
 
@@ -147,6 +147,9 @@ Database
 
 I believe that every complex problem can be solved with persistence, curiosity and continuous improvement.
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ScarFace11&label=Profile+Views&color=44944a&style=for-the-badge" />
+</p>
 ---
 
 # 📫 Contact
