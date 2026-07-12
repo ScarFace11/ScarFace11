@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Maxim
+# 👋 Hi there, I'm Egor
 
 <div align="center">
 
@@ -19,11 +19,11 @@
 ## 💀 About Me
 
 ```yaml
-name: Maxim
+name: Egor
 nickname: ScarFace
 
 role:
-  - Junior Python Developer
+  - Python Developer
   - C# / .NET Developer
 
 focus:
