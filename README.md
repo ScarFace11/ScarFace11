@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Egor
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=750&lines=Python+%7C+C%23+Developer;Computer+Vision+Enthusiast;Game+Developer;Automation+Engineer;The+World+Is+Yours" />
@@ -28,9 +26,9 @@ role:
 
 focus:
   - Software Development
-  - Game Development
+  - Game development & modding
   - Computer Vision
-  - Automation
+  - Python automation
 
 languages:
   - Python
@@ -43,6 +41,7 @@ technologies:
   - SMAPI
   - OpenCV
   - Entity Framework
+  - Docker
 
 currently_learning:
   - Software Architecture
@@ -59,12 +58,13 @@ motto:
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| 🎯 [**Arrow Detection System**](https://github.com/ScarFace11/ArrowBot) | Computer Vision system for real-time object detection |
-| 🌾 [**Stardew Valley NPC Tracker**](https://github.com/ScarFace11/StardewValley-NPC-Tracker) | SMAPI mod for tracking NPC movement and paths |
-| 👾 [**Pacman Game**](https://github.com/ScarFace11/Pacman-Game) | Arcade game built with Python and Pygame |
-| 🏭 [**Boiler Service Management System**](https://github.com/ScarFace11/Boiler-Service-Management) | C# WPF enterprise application for managing boiler service operations |
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎓 [**CRM Education**](https://github.com/ScarFace11/CRM-Education) | A desktop CRM system for managing educational processes. | React, TypeScript, Node.js, Express 5, PostgreSQL, OpenAPI|
+| 🎯 [**Arrow Detection System**](https://github.com/ScarFace11/ArrowBot) | Computer Vision system for real-time object detection | Python, OpenCV |
+| 🌾 [**Stardew Valley NPC Tracker**](https://github.com/ScarFace11/StardewValley-NPC-Tracker) | SMAPI mod for tracking NPC movement and paths | C#, SMAPI, Harmony |
+| 👾 [**Pacman Game**](https://github.com/ScarFace11/Pacman-Game) | Arcade game built with Python and Pygame | Python, Pygame |
+| 🏭 [**Boiler Service Management System**](https://github.com/ScarFace11/Boiler-Service-Management) | C# WPF enterprise application for managing boiler service operations | C#, WPF, SQL Server |
 
 </div>
 
@@ -75,7 +75,7 @@ motto:
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,sql" />
+<img src="https://skillicons.dev/icons?i=cs,py,cpp,sql" />
 </p>
 
 ## Frameworks & Libraries
@@ -84,21 +84,33 @@ motto:
 <img src="https://skillicons.dev/icons?i=dotnet,opencv" />
 </p>
 
+## Tools & Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,pycharm,docker" />
+</p>
+
+## Auxiliary tools
+<p>
+<img src="https://skillicons.dev/icons?i=ai,replit,obsidian," />
+</p>
+
 ```
 Python
-├── Pygame
-├── OpenCV
-├── PyAutoGUI
-└── Requests
+├── 🎮 Pygame – Game development
+├── 👁️ OpenCV – Computer Vision
+├── 🤖 PyAutoGUI – Automation
+├── 🌐 Requests – API integration
+└── 📊 Data Processing
 
 C#
-├── .NET
-├── Entity Framework
-└── SMAPI
+├── 🏗️ .NET Framework & Core
+├── 🗄️ Entity Framework – ORM
+└── 🧩 SMAPI – Stardew Valley modding
 
 Database
-├── SQL Server
-└── SQLite
+├── 🛢️ SQL Server
+└── 📁 SQLite
 ```
 
 ---
@@ -114,7 +126,7 @@ Database
 ![GitHub Streak](https://streak-stats.demolab.com?user=ScarFace11&theme=tokyonight&hide_border=true)
 
 </div>
-
+ 
 ---
 
 # 🎯 Current Goals
@@ -122,7 +134,7 @@ Database
 - 🔹 Create production-quality applications
 - 🔹 Improve Python architecture skills
 - 🔹 Master advanced C# / .NET development
-- 🔹 Build useful open-source projects
+- 🔹 Build useful open-source projects for the community
 - 🔹 Grow as a Software Engineer
 
 ---
@@ -146,14 +158,16 @@ Database
 > "The World Is Yours."
 
 I believe that every complex problem can be solved with persistence, curiosity and continuous improvement.
+Every line of code is an opportunity to learn something new and create something meaningful.
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ScarFace11&label=Profile+Views&color=44944a&style=for-the-badge" />
 </p>
+
 ---
 
 # 📫 Contact
-
+⭐ Feel free to explore my repositories and reach out for collaboration!
 <p align="center">
 
 <a href="https://t.me/Scar_Face1_1">
@@ -165,3 +179,4 @@ I believe that every complex problem can be solved with persistence, curiosity a
 </a>
 
 </p>
+<div align="center"> <b>Thanks for visiting my profile 🚀</b> <br> <sub>⭐ Always coding, always learning, always building.</sub> </div>
